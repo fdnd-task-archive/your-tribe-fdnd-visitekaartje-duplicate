@@ -98,9 +98,9 @@ Op basis van je ontwerpschets ga je de HTML, CSS en JS van het visitekaartje van
 Alle inhoud van een webpagina wordt vastgelegd in HTML. Neem de tijd voor deze stap en zorg dat je het HTML bestand begrijpt.
 
 1. Open het ```/index.html``` bestand in een editor.
-2. Op regel 13 staat een ```<h1>...</h1>``` element met de naam *Jane Doe*. Voer hier jouw eigen naam in.
-3. Op regel 14 staan ```<p><em>...</em></p>``` elementen met daarin de *titel* van Jane. Pas dit aan naar jouw eigen titel.
-4. Pas op dezelfde manier de vaardigheden op regels 38 en verder en het motto op regel 43 aan. 
+2. Op regel 15 staat een ```<h1>...</h1>``` element met een  naam. Voer hier jouw eigen naam in.
+3. Op regel 16 staan ```<p><em>...</em></p>``` met daarin de *beschrijving* van Jane. Pas dit aan naar jouw eigen tekst.
+4. Pas op dezelfde manier de vaardigheden op regels 38 en verder en het motto op regel 44 aan. 
 5. In het voorbeeld staat een foto ```<img src="assets/creative-coder.png">``` op regel 36. Verander de foto met jouw mugshot.
 6. Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
 
