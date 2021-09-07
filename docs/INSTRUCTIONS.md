@@ -3,9 +3,10 @@
 
 # Visitekaartje
 Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de bestaande inhoud in _HTML_, de opmaak in _CSS_ en/of de functionaliteit in _JS_ aan te passen en naar je hand te zetten.
+
 ## Context
 
-Leertaak: Maak op basis van het voorbeeld een eigen visitekaartje. Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _duplicate_ taak.
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _duplicate_ taak die je individueel uitvoert.
 
 
 ## Briefing
@@ -17,7 +18,7 @@ Maak een visitekaartje op basis van [het voorbeeld](https://github.com/fdnd-task
 
 ## Doel van deze leertaak
 
-Na het volgen van deze leertaak heb je zelf een visitekaartje gemaakt. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en JS (voor de interactie) gebruikt om het ontwerp te bouwen. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
+Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaakt met behulp van de de Development Lifecycle. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en JS (voor de interactie) gebruikt om het ontwerp te bouwen. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
 
 
 
@@ -38,7 +39,7 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 <summary>Aanpak</summary>
 
 1. Lees de instructies van deze leertaak zorgvuldig door.
-2. Bekijk de verschillende fases van de Development Lifecycle en wat je per stap gaat doen.
+2. Bekijk de verschillende fases van de Development Lifecycle en wat je per fase gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekening. (wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig)
 
 </details>
@@ -97,10 +98,11 @@ Op basis van je ontwerpschets ga je de HTML, CSS en JS van het visitekaartje van
 Alle inhoud van een webpagina wordt vastgelegd in HTML. Neem de tijd voor deze stap en zorg dat je het HTML bestand begrijpt.
 
 1. Open het ```/index.html``` bestand in een editor.
-2. Op regel 13 staat een ```<h1>...</h1>``` element met de naam *Jane Doe*. Voer hier jouw eigen naam in.
-3. Op regel 14 staan ```<p><em>...</em></p>``` elementen met daarin de *titel* van Jane. Pas dit aan naar jouw eigen titel.
-4. Pas op dezelfde manier de vaardigheden op regels 38 en verder en het motto op regel 43 aan. 
-5. Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
+2. Op regel 13 staat een ```<h1>...</h1>``` element met de naam Jane Doe. Voer hier jouw eigen naam in.
+3. Op regel 14 staan ```<p><em>...</em></p>``` met daarin de *beschrijving* van Jane. Pas dit aan naar jouw eigen tekst.
+4. Pas op dezelfde manier de vaardigheden op regels 36 en verder en het motto op regel 42 aan. 
+5. In het voorbeeld staat een foto ```<img src="assets/creative-coder.png">``` op regel 34. Verander de foto met jouw mugshot.
+6. Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
 
   
 #### Materiaal bouwfase HTML
@@ -172,7 +174,7 @@ Je gaat jouw aanpassing op het visitekaartje publiceren op internet! Dat klinkt 
 ![Github Pages](./gh-pages1.png)
   
   
-  10. Selecteer bij *Source* de **Master** branch in plaats van *None*  en klik op Save:
+  10. Selecteer bij *Source* de **Master branch** en klik op Save:
 
 ![Github Pages](./gh-pages2.png)
   
