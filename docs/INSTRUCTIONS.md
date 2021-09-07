@@ -6,7 +6,7 @@ Je maakt op basis van het voorbeeld een eigen visitekaartje. Dit doe je door de 
 
 ## Context
 
-Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _duplicate_ taak.
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _duplicate_ taak die je individueel uitvoert.
 
 
 ## Briefing
