@@ -4,7 +4,7 @@ client: "FDND"
 description: "Maak met HTML, CSS en JavaScript een visitekaartje"    
 semester: 1                       
 sprint: 1                       
-support-level: 5                 
+support-level: 2                 
 behavior-criteria:                  
   collaboration: 1                
   learning-capacity: 1            
