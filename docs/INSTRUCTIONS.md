@@ -83,7 +83,6 @@ Over typografie, hoe te kiezen en te gebruiken:
 
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
-
 Op basis van je ontwerpschets ga je de HTML, CSS en JS van het visitekaartje van deze taak aanpassen. 
 
 
