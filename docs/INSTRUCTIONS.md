@@ -84,16 +84,21 @@ Over typografie, hoe te kiezen en te gebruiken:
 ### Bouwen
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-Op basis van je ontwerpschets ga je de HTML, CSS en JS van het visitekaartje van deze taak aanpassen. Fork deze _repository_ naar je eigen Github account en download de code naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
+Op basis van je ontwerpschets ga je de HTML, CSS en JS van het visitekaartje van deze taak aanpassen. 
 
 
 <details>
 <summary>Aanpak</summary>
   
-#### Forken en Downloaden
-  
+#### 1. Forken en Downloaden
 
-#### HTML
+Zorg eerst dat je de leertaak naar je eigen account kopieert, dan is dan jouw repo en daar ga je je eigen code in maken.
+  
+1. Fork deze _repository_ naar je eigen Github account.
+2. Download de code naar jouw computer. 
+3. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie. 
+
+#### 2. HTML
   
 Alle inhoud van een webpagina wordt vastgelegd in HTML. Neem de tijd voor deze stap en zorg dat je het HTML bestand begrijpt.
 
@@ -110,7 +115,7 @@ Alle inhoud van een webpagina wordt vastgelegd in HTML. Neem de tijd voor deze s
 - [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
 
 
-#### CSS
+#### 3. CSS
   
 De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen etc). Neem de tijd voor deze stap en zorg dat je het CSS bestand begrijpt. 
 
@@ -135,7 +140,7 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
 - [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
 
 
-#### JS
+#### 4. JS
   
 De interactie op de pagina wordt bepaald door Javascript (JS). Neem de tijd voor deze stap en zorg dat je het JS bestand begrijpt. Als je nog nooit iets met JSS zelf hebt gedaan, bekijk dan met een klasgenoot de code, misschien kan hij of zij je uitleggen wat er gebeurt. 
 
